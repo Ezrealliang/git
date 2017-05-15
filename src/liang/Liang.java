@@ -9,4 +9,7 @@ public class Liang {
 		// TODO Auto-generated method stub
 		System.out.println("mehtod1");
 	}
+	public void testname() throws Exception {
+		
+	}
 }
